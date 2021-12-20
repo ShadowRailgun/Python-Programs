@@ -1,0 +1,5 @@
+This folder will hold short one python file solutions.
+These are meant for short programs that have no additional files in order to run like for data intake. 
+They may or may not have user input. Some may use hardcoded values. 
+Everything will have comments to hopefully explain my thought process.
+The files in this folder will hopefully show that I have a base in Python.
